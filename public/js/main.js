@@ -8,9 +8,6 @@ var activateSlide = function (s) {
     $(".header4").removeClass("active");
     $(".header4[slide='" + s + "']").addClass("active");
 
-
-
-
 };
 
 $(".sliderButton li").click(function () {

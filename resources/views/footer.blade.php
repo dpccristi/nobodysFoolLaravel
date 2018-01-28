@@ -5,8 +5,7 @@
             <div class="col">
                 <div>
                     <h5>ABOUT US</h5>
-                    <img src="https://static.lulu.com/cmsmedia/home/en/Amazon_logo.png"
-                         width="100%">
+
                     <p class="alb">But consider the companies with the greatest
                         loyalty—they rarely have all those things. We all know someone who is a die-hard Mac lover. Ask them
                         WHY they love their Mac.</p>
@@ -14,6 +13,11 @@
                 </div>
             </div>
 
+            <div class="col">
+                <img src="https://static.lulu.com/cmsmedia/home/en/Amazon_logo.png"
+                     width="100%">
+
+            </div>
 
             <div class="col">
 
@@ -30,6 +34,7 @@
 
                 </div>
             </div>
+
         </div>
     </div>
 </section>
